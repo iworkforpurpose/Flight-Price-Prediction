@@ -120,6 +120,7 @@ kotlin
 Copy
 Edit
 flight-price-prediction/
+
 ├── data/                  // Folder for datasets
 │   └── flights.csv        // Example dataset file
 ├── notebooks/             // Jupyter notebooks for exploratory analysis
@@ -129,6 +130,7 @@ flight-price-prediction/
 │   └── main.py            // Main script to run the project
 ├── requirements.txt       // Python dependencies
 └── README.md              // Project documentation
+
 9. Contributing
 
 Contributions are welcome! To contribute:
