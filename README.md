@@ -17,6 +17,7 @@ Project Structure
 Contributing
 License
 Acknowledgements
+
 1. Overview
 
 This project involves several steps:
@@ -26,6 +27,7 @@ Feature Engineering: Extracting relevant features from the dataset to improve pr
 Model Training: Evaluating multiple machine learning algorithms to predict flight prices.
 Model Evaluation: Assessing the performance of each model using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 Prediction: Deploying the best performing model to predict future flight prices.
+
 2. Features
 
 Data Cleaning: Handling missing values and outliers.
@@ -33,6 +35,7 @@ Feature Extraction: Creating new features from date, time, and categorical varia
 Model Comparison: Training and evaluating different models (e.g., Linear Regression, Random Forest, XGBoost).
 Visualization: Graphical representation of data distributions and model performance.
 Prediction Interface: Command-line based interface for inputting parameters and receiving price predictions.
+
 3. Installation
 
 Clone the repository:
@@ -40,11 +43,10 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/flight-price-prediction.git
+git clone https://github.com/iworkforpurpose/Flight-Price-Prediction
 cd flight-price-prediction
 Create a virtual environment (optional but recommended):
 
-nginx
 Copy
 Edit
 python -m venv venv
@@ -60,10 +62,10 @@ Edit
 source venv/bin/activate
 Install dependencies:
 
-nginx
 Copy
 Edit
 pip install -r requirements.txt
+
 4. Usage
 
 Prepare your data:
@@ -84,6 +86,7 @@ css
 Copy
 Edit
 python main.py --help
+
 5. Data
 
 Dataset Description:
