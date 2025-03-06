@@ -116,17 +116,17 @@ Mention any plots or charts used to illustrate model performance (e.g., predicti
 
 8. Project Structure
 
-flight-price-prediction/
-
-├── data/
-│   └── flights.csv        
-├── notebooks/             
-├── src/                  
-│   ├── preprocessing.py  
-│   ├── models.py          
-│   └── main.py            
-├── requirements.txt       
-└── README.md              
+  flight-price-prediction/
+  
+  ├── data/
+  │   └── flights.csv        
+  ├── notebooks/             
+  ├── src/                  
+  │   ├── preprocessing.py  
+  │   ├── models.py          
+  │   └── main.py            
+  ├── requirements.txt       
+  └── README.md              
 
 9. Contributing
 
