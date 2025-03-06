@@ -117,6 +117,7 @@ Mention any plots or charts used to illustrate model performance (e.g., predicti
 8. Project Structure
 
 flight-price-prediction/
+
 ├── data/
 │   └── flights.csv        
 ├── notebooks/             
