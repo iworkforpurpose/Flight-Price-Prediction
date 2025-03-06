@@ -116,20 +116,16 @@ Mention any plots or charts used to illustrate model performance (e.g., predicti
 
 8. Project Structure
 
-kotlin
-Copy
-Edit
 flight-price-prediction/
-
-├── data/                  // Folder for datasets
-│   └── flights.csv        // Example dataset file
-├── notebooks/             // Jupyter notebooks for exploratory analysis
-├── src/                   // Source code files
-│   ├── preprocessing.py   // Data cleaning and feature engineering
-│   ├── models.py          // Model training and evaluation
-│   └── main.py            // Main script to run the project
-├── requirements.txt       // Python dependencies
-└── README.md              // Project documentation
+├── data/
+│   └── flights.csv         // Example dataset file
+├── notebooks/              // Jupyter notebooks for exploratory analysis
+├── src/                    // Source code files
+│   ├── preprocessing.py    // Data cleaning and feature engineering
+│   ├── models.py           // Model training and evaluation
+│   └── main.py             // Main script to run the project
+├── requirements.txt        // Python dependencies
+└── README.md               // Project documentation
 
 9. Contributing
 
